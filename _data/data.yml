@@ -7,184 +7,152 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Rodrigo Borges
+    tagline: PhD em Economia
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    email: rodrigo@borges.net.br
+    phone: +55 61 8213-9405
+    website: cursos.borges.net.br
+    linkedin: rodrigoesborges
+    github: rodrigoesborges
+    telegram: rodrigoesborges # add your nickname without '@' sign
+    gitlab: rodrigoesborges
+    bitbucket: rodrigoesborges
+    twitter: '@rodrigoesborges'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
-        level: Native
+      - idiom: Português
+        level: Nativo
 
-      - idiom: French
-        level: Professional
+      - idiom: Castelhano
+        level: Nativo
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Inglês
+        level: Fluente
+
+      - idiom: Francês
+        level: Intermediário
+
+      - idiom: Turco
+        level: Básico
 
     interests:
-      - item: Climbing
+      - item: Economia Política
         link:
 
-      - item: Snowboarding
+      - item: Conjuntura Econômica
         link:
 
-      - item: Cooking
+      - item: Economia Internacional
         link:
 
+      - item: Software Livre
+        link:
+
+      - item: Música
+        link:
+  
 career-profile:
-    title: Career Profile
+    title: Carreira
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Doutor em Economia pela Universidad Complutense de Madrid (Espanha).
+      Pós-doutorando em Política Social - PPGPS/UFES.
+      Experiência de pesquisa e docente em Economia Política, Economia Internacional, Teoria Econômica, Macroeconomia, História do Pensamento Econômico.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Pós-doutorado em Política Social
+      university: Universidade Federal do Espírito Santo
+      time: 2018 - 2021
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Matriz de Contabilidade Social e Classes no Brasil e Cuba, em busca de uma visão integrada que alcance a primeira infância.
+          - Utilização de dados de contas nacionais e microdados
+          - panorama do fluxo de acumulação e renda
+    - degree: Doutorado em Economia Internacional e Desenvolvimento
+      university: Universidad Complutense de Madrid
+      time: 2007 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Estudo crítico da produção de etanol no Brasil e o investimento estrangeiro, baseado em releitura da ótica de cadeias globais de valor, crítica ao desenvolvimentismo e dados de insumo-produto, concentração de mercado e demais informações detalhadas disponíveis
+          - Pesquisa Quantitativa
+          - Pesquisa qualitativa, com entrevistas de campo
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Pesquisador pós-doutoral
+      time: 2018 - Presente
+      company: UFES
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Desenvolvimento de projeto de pesquisa - Bolsa CAPES/FAPES PROFIX - e participação em diversos grupos de estudo e pesquisa.
+    - role: Docente
+      time: 2017 - 2018
+      company: Universidade Federal de Goiás (UFG)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Professor do Departamento de Economia da UFG, atuei nas seguintes disciplinas.
+          - Macroeconomia
+          - Microeconomia
+          - Introdução à Economia
+          - História do Pensamento Econômico
 projects:
-    title: Projects
+    title: Projetos
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Recentemente, ao atuar com software R, produzi diversas pesquisas e métodos replicáveis.
     assignments:
-      - title: Velocity
+      - title: Base de Dados Mundial de Valores
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Diversas estimativas por países e mundiais a partir de dados de WIOD e EUKLEMS, entre outros"
 
-      - title: DevStudio
+      - title: Microdados de Política Social do Brasil
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Painel e conjunto de scripts para compilação de diversos indicadores a partir de microdados públicos disponíveis"
 
-      - title: Tempo
+      - title: Benefício Emergencial municipal
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Estudo prospectivo de perfil e necessidades de auxílio cobertas e não cobertas, com vistas a atuação municipal"
 
-      - title: Atom
+      - title: ConjuntuRa
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Painel de Conjuntura estimado a partir de dados relevantes públicos disponíveis"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Publicações
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      A atuação multifacetada se traduz em publicações sobre temas bastante diversos.
     papers:
-      - title: The Art of Computer Programming
+      - title: Matriz de Contabilidade Social
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: BORGES, R. 
+        conference: "relatório"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Superexploração no século XXI
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        authors: BORGES, R.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
 skills:
-    title: Skills &amp; Proficiency
+    title: Habilidades &amp; Proficiência
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Docência
+        level: 3 anos
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Pesquisas com financiamento e internacionais
+        level: 12 anos
 
-      - name: Angular
-        level: 98%
+      - name: R e RStudio
+        level: 78%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: git
+        level: 50%
 
-      - name: Ruby on Rails
+      - name: Ambientes Virtuais de Aprendizado
+        level: 80%
+
+      - name: Repositórios e recursos online
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Desenhado com <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
