@@ -42,13 +42,19 @@ sidebar:
         level: Básico
 
     interests:
-      - item: Economia Política
+      - item: Economia Política e sua Crítica
         link:
 
       - item: Conjuntura Econômica
         link:
 
       - item: Economia Internacional
+        link:
+
+      - item: Trabalho e movimentos populares
+        link:
+
+      - item: Planejamento e Estado
         link:
 
       - item: Software Livre
@@ -101,14 +107,14 @@ projects:
       Recentemente, ao atuar com software R, produzi diversas pesquisas e métodos replicáveis.
     assignments:
       - title: Base de Dados Mundial de Valores
-        link: "#hook"
+        link: "https://panel.worldlabourvalues.org"
         tagline: "Diversas estimativas por países e mundiais a partir de dados de WIOD e EUKLEMS, entre outros"
 
       - title: Microdados de Política Social do Brasil
-        link: "#"
+        link: "https://github.com/rodrigoesborges/microdadosbrasilpoliticasocial"
         tagline: "Painel e conjunto de scripts para compilação de diversos indicadores a partir de microdados públicos disponíveis"
 
-      - title: Benefício Emergencial municipal
+      - title: Benefício Emergencial municipal (prel)
         link: "#"
         tagline: "Estudo prospectivo de perfil e necessidades de auxílio cobertas e não cobertas, com vistas a atuação municipal"
 
@@ -122,25 +128,67 @@ publications:
     intro: |
       A atuação multifacetada se traduz em publicações sobre temas bastante diversos.
     papers:
-      - title: Matriz de Contabilidade Social
+      - title: Matriz de Contabilidade Social e Classes Sociais no Brasil
         link: "#"
         authors: BORGES, R. 
-        conference: "relatório"
+        conference: "relatório (pós-doc)"
 
-      - title: Superexploração no século XXI
+      - title: Esferas de consumo no Brasil: desvendando limites do desenvolvimentismo.
+        link: "#"
+        authors: BORGES, R. et al
+        conference: "O Brasil do século XXI: dilemas de uma sociedade dependente. SP: EP, 2021 (no prelo)"
+
+      - title: Superexploração no século XXI. Notas sobre seu novo debate internacional.
+        link: "#"
+        authors: BORGES, R. et al
+        conference: "DEPENDÊNCIA, QUESTÃO AGRÁRIA E MUDANÇAS SOCIAIS NA AMÉRICA LATINA. SP: EP, 2021 (no prelo)"
+
+      - title: Crisis y pandemia por COVID-19: gestión estatal de la fuerza de trabajo y precariedad laboral en Brasil.
+        link: "#"
+        authors: BORGES, R. et al
+        conference: "Anuario de Estudios Políticos Latinoamericanos (no prelo), 2021"
+
+      - title: Três questões em torno da teoria do valor trabalho. O problema da transformação: novas interpretações.
+
+        link: "#"
+        authors: BORGES, R. ; DAL ROSSO, S.; BUENO, F.
+        conference: "Contribuições para as Teorias do Valor do Trabalho e Dependência. Campinas, SP: Pontes Editores, 2021"
+
+      - title: Considerações sobre renda e dependência: dinâmica do mercado mundial, mensuração e complementaridade.
         link: "#"
         authors: BORGES, R.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        conference: "Contribuições para as Teorias do Valor do Trabalho e Dependência. Campinas, SP: Pontes Editores, 2021"
+
+      - title: Financeirização e capital fictício na América Latina e Brasil.
+        link: "#"
+        authors: BORGES, R. et al
+        conference: "Financeirização e capital fictício na América Latina e Brasil. In: Maria Lúcia Teixeira Garcia; Franciani Bernardes. (Org.). Contrarreformas ou Revolução: Respostas ao Capitalismo em Crise. 1ed.São Paulo: Cortez Editora, 2020, v. 1, p. 38-53."
+
+      - title: Desenvolvimento da primeira infância em Cuba: avanços e desafios à luz do sexagésimo aniversário do triunfo da Revolução.
+        link: "#"
+        authors: BORGES, R. et al
+        conference: "Desenvolvimento da primeira infância em Cuba: avanços e desafios à luz do sexagésimo aniversário do triunfo da Revolução. In: Lídia Maria de Abreu Generoso; Ana Paula Cecon Calegari. (Org.). Revolução Cubana: perspectivas históricas e desafios atuais. 1ed.Belo Horizonte: Initia Via, 2020, v. 1, p. 300-."
+
+      - title: A gestão estatal da força de trabalho no Brasil: Economia política de uma reforma trabalhista.
+        link: "#"
+        authors: BORGES, R. et al
+        conference: "Anuario de Estudios Políticos Latinoamericanos, v. 5, p. 81, 2019"
+
+      - title:  Crise, eleições e desvalorização cambial no Brasil.
+        link: "#"
+        authors: BORGES, R.
+        conference: " Crise, eleições e desvalorização cambial no Brasil. Nuestra América XXI. Desafíos y Alternativas, Ciudad de México, p. 2 - 5, 10 out. 2018"
+
 
 skills:
     title: Habilidades &amp; Proficiência
 
     toolset:
       - name: Docência
-        level: 3 anos
+        level: 55%
 
       - name: Pesquisas com financiamento e internacionais
-        level: 12 anos
+        level: 80%
 
       - name: R e RStudio
         level: 78%
