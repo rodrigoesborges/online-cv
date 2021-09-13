@@ -25,7 +25,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
+    idiomas:
       - idiom: Português
         level: Nativo
 
@@ -41,7 +41,7 @@ sidebar:
       - idiom: Turco
         level: Básico
 
-    Linhas de Pesquisa e Interesse:
+    linhas de Pesquisa e Interesse:
       - item: Economia Política e sua Crítica
         link:
 
