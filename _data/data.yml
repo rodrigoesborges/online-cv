@@ -21,9 +21,6 @@ sidebar:
     gitlab: rodrigoesborges
     bitbucket: rodrigoesborges
     twitter: '@rodrigoesborges'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
 
     idiomas:
       - idiom: Português
@@ -57,10 +54,7 @@ sidebar:
       - item: Planejamento e Estado
         link:
 
-      - item: Software Livre
-        link:
-
-      - item: Música
+      - item: Políticas Públicas e Política Social
         link:
   
 career-profile:
@@ -184,13 +178,13 @@ skills:
 
     toolset:
       - name: Docência
-        level: 55%
-
-      - name: Pesquisas com financiamento e internacionais
         level: 80%
 
+      - name: Trabalho coletivo/Pesquisas com financiamento e internacionais
+        level: 85%
+
       - name: R e RStudio
-        level: 78%
+        level: 90%
 
       - name: git
         level: 50%
