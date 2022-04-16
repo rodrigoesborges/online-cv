@@ -180,19 +180,19 @@ skills:
       - name: Docência
         level: 80%
 
-      - name: Trabalho coletivo/Pesquisas com financiamento e internacionais
-        level: 85%
+      - name: Pesquisa coletiva
+        level: 95%
 
       - name: R e RStudio
         level: 90%
 
-      - name: git
-        level: 50%
-
-      - name: Ambientes Virtuais de Aprendizado
+      - name: Microdados amostrais-BRA
         level: 80%
 
-      - name: Repositórios e recursos online
+      - name: Conjuntura Econômica
+        level: 99%
+
+      - name: Publicação científica em revista
         level: 85%
 
 
