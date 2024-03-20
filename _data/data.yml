@@ -38,6 +38,9 @@ sidebar:
       - idiom: Turco
         level: Básico
 
+      - idiom: Mandarim
+        level: Iniciante
+
     linhas de Pesquisa e Interesse:
       - item: Economia Política e sua Crítica
         link:
@@ -80,8 +83,23 @@ education:
           - Pesquisa Quantitativa
           - Pesquisa qualitativa, com entrevistas de campo
 experiences:
+    - role: Economista, Assessor Especial
+      time: 2023-presente
+      company: IPEDF Codeplan
+      details: |
+        Elaboração e apresentação de estudos e pesquisas primárias, como a PED-DF. Corresponsável pela coordenação da Pesquisa Distrital por Amostra de Domicílios Ampliada 2023.
+    - role: Pesquisador Principal em projeto de pesquisa
+      time: 2022-2023
+      company: Instituto de Pesquisa e Estatística do Distrito Federal (IPEDF Codeplan)
+      details: |
+        Pesquisador principal no projeto "Diagnóstico Retrospectivo, Conjuntural e Prospectivo do Mercado de Trabalho no Distrito Federal (DF) e na Periferia Metropolitana de Brasília (PMB)". Elaboração de notas técnicas e artigo científico (microdados via R).
+    - role: Economista e Cientista de Dados
+      time: 2022-2023
+      company: Ministério da Saúde
+      details: |
+        Coordenação-Geral de Monitoramento de Indicadores da Atenção Especializada em Saúde (CGMIND/SAES). Elaborou estudos específicos e dashboards internos, além de análises de impacto econômico
     - role: Pesquisador pós-doutoral
-      time: 2018 - Presente
+      time: 2018 - 2021
       company: UFES
       details: |
         Desenvolvimento de projeto de pesquisa - Bolsa CAPES/FAPES PROFIX - e participação em diversos grupos de estudo e pesquisa.<br>Docência para pós-graduação.
@@ -122,6 +140,16 @@ publications:
     intro: |
       A atuação multifacetada se traduz em publicações sobre temas bastante diversos.
     papers:
+      - title: Matriz de Contabilidade Social no Brasil  e Política Social
+        link: "#"
+        authors: BORGES, R. 
+        conference: "relatório (pós-doc)"
+
+      - title: Matriz de Contabilidade Social no Brasil  e Política Social
+        link: "#"
+        authors: BORGES, R. 
+        conference: "relatório (pós-doc)"
+
       - title: Matriz de Contabilidade Social no Brasil  e Política Social
         link: "#"
         authors: BORGES, R. 
@@ -185,6 +213,9 @@ skills:
 
       - name: R e RStudio
         level: 90%
+
+      - name: Python, Machine Learning, IA
+        level: 35%
 
       - name: Microdados amostrais-BRA
         level: 80%
