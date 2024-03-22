@@ -14,9 +14,10 @@ sidebar:
     # Sidebar links
     email: rodrigo@borges.net.br
     phone: +55 61 8213-9405
-    website: cursos.borges.net.br
+    website: l.borges.net.br/CVlattes
     linkedin: rodrigoesborges
     github: rodrigoesborges
+    website: cursos.borges.net.br
     telegram: rodrigoesborges # add your nickname without '@' sign
     gitlab: rodrigoesborges
     bitbucket: rodrigoesborges
@@ -150,20 +151,20 @@ publications:
         authors: BORGES, R. 
         conference: "relatório (pós-doc)"
 
-      - title: Matriz de Contabilidade Social no Brasil  e Política Social
-        link: "#"
-        authors: BORGES, R. 
-        conference: "relatório (pós-doc)"
-
       - title: Esferas de consumo no Brasil - desvendando limites do desenvolvimentismo.
         link: "#"
-        authors: BORGES, R. et al
-        conference: "O Brasil do século XXI: dilemas de uma sociedade dependente. SP: Boitempo, 2021 (no prelo)"
+        authors: BORGES, R.; BARCELLOS, T., 2023
+        book: "Economia Política Interamericana no século XXI: poder, perspectivas de desenvolvimento e dependência"
 
       - title: Superexploração no século XXI. Notas sobre seu novo debate internacional.
         link: "#"
         authors: BORGES, R. et al
-        conference: "DEPENDÊNCIA, QUESTÃO AGRÁRIA E MUDANÇAS SOCIAIS NA AMÉRICA LATINA. SP: EP, 2021 (no prelo)"
+        conference: "Dependência, questão agrária e mudanças sociais na América Latina. SP: EP, 2022"
+
+      - title: Matriz de Contabilidade Social no Brasil  e Política Social
+        link: "#"
+        authors: BORGES, R. 
+        conference: "relatório (2021-pós-doc)"
 
       - title: Crisis y pandemia por COVID-19 - gestión estatal de la fuerza de trabajo y precariedad laboral en Brasil.
         link: "#"
