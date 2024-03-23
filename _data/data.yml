@@ -141,20 +141,25 @@ publications:
     intro: |
       A atuação multifacetada se traduz em publicações sobre temas bastante diversos.
     papers:
-      - title: Matriz de Contabilidade Social no Brasil  e Política Social
-        link: "#"
-        authors: BORGES, R. 
-        conference: "relatório (pós-doc)"
+      - title: "Entrepreneurship in the Favela: Negotiating Precarity and Mental Health During Covid-19"
+        link: "https://doi.org/10.1080/19371918.2024.2316874"
+        authors: GARCIA,M.L;BORGES, R. et al
+        review: "Social Work in Public Health, v. 39, 1, 2024."
 
-      - title: Matriz de Contabilidade Social no Brasil  e Política Social
+      - title: La intentona fascista del 2023 en Brasil - consideraciones e interrogantes
         link: "#"
-        authors: BORGES, R. 
-        conference: "relatório (pós-doc)"
+        authors: BORGES, R.; CARRARO, G.
+        book: "In:BOLAÑO,C. ROFINELLI, G.(orgs). Nuestra América XXI: Desafíos y alternativas.Buenos Aires: CLACSO, 2023."
 
       - title: Esferas de consumo no Brasil - desvendando limites do desenvolvimentismo.
+        link: "dx.doi.org/10.24824/978652514395.8"
+        authors: BORGES, R.; BARCELLOS, T.
+        book: "Economia Política Interamericana no século XXI: poder, perspectivas de desenvolvimento e dependência. Curitiba: CRV, 2023."
+
+      - title: Produção, reprodução e política social no Brasil -  para uma visão articulada e concreta.
         link: "#"
-        authors: BORGES, R.; BARCELLOS, T., 2023
-        book: "Economia Política Interamericana no século XXI: poder, perspectivas de desenvolvimento e dependência"
+        authors: BORGES, R.; CARRARO, G.
+        book: "In: PRATES, Jane C. et al (orgs).Atravessamentos do neoliberalismo nas políticas públicas no contexto pandêmico. Porto Alegre: EdiPUCRS, 2022."
 
       - title: Superexploração no século XXI. Notas sobre seu novo debate internacional.
         link: "#"
@@ -166,10 +171,15 @@ publications:
         authors: BORGES, R. 
         conference: "relatório (2021-pós-doc)"
 
+      - title: "Planificação no processo sócio-histórico cubano: experiência e desafios no contexto atual."
+        link: "#"
+        authors: CARRARO, G.;BORGES, R.
+        book: "65 anos da Revolução Cubana. São Paulo: Expressão Popular,2024 (no prelo)"
+
       - title: Crisis y pandemia por COVID-19 - gestión estatal de la fuerza de trabajo y precariedad laboral en Brasil.
         link: "#"
         authors: BORGES, R. et al
-        conference: "Anuario de Estudios Políticos Latinoamericanos (no prelo), 2021"
+        conference: "Anuario de Estudios Políticos Latinoamericanos. 2021"
 
       - title: Três questões em torno da teoria do valor trabalho. O problema da transformação - novas interpretações.
         link: "#"
