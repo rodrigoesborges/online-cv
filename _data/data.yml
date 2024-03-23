@@ -122,7 +122,7 @@ projects:
     assignments:
       - title: Base de Dados Mundial de Valores
         link: "https://panel.worldlabourvalues.org"
-        tagline: "Diversas estimativas por países e mundiais a partir de dados de WIOD e EUKLEMS, entre outros"
+        tagline: "Diversas estimativas setoriais, por países e mundiais a partir de dados de WIOD e EUKLEMS, entre outros"
 
       - title: Microdados de Política Social do Brasil
         link: "https://github.com/rodrigoesborges/microdadosbrasilpoliticasocial"
