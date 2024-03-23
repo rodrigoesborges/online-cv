@@ -120,7 +120,15 @@ projects:
     intro: >
       Recentemente, ao atuar com software R, produzi diversas pesquisas e métodos replicáveis.
     assignments:
-      - title: Base de Dados Mundial de Valores
+      - title: Programa Nacional de Redução de Filas - monitoramento preliminar
+        link: "https://github.com/rodrigoesborges/pnrf_adesoes"
+        tagline: "painel preliminar relativo ao acompanhamento gerencial do PNRF (MS), 2023."
+
+      - title: Painel da Rede de Atenção Hospitalar
+        link: "https://github.com/cgmind-saes/painel_DAHU"
+        tagline: "Mockup funcional de painel com indicadores e informações da rede da SAES (MS), 2022."
+
+      - title: Painel de Valores Mundiais
         link: "https://panel.worldlabourvalues.org"
         tagline: "Diversas estimativas setoriais, por países e mundiais a partir de dados de WIOD e EUKLEMS, entre outros"
 
@@ -147,6 +155,12 @@ publications:
         authors: GARCIA,M.L;BORGES, R. et al
         review: "Social Work in Public Health, v. 39, 1, 2024."
 
+      - title: Distribuição dos estabelecimentos de saúde da atenção especializada à saúde no Brasil vinculados ao SUS - 
+estabelecimentos com leitos de internação
+        link: "https://github.com/rodrigoesborges/habilitacoes-saes/"
+        authors: BORGES, R.; MACHADO, K.
+        book: "Ministério da Saúde, 2023"
+
       - title: La intentona fascista del 2023 en Brasil - consideraciones e interrogantes
         link: "#"
         authors: BORGES, R.; CARRARO, G.
@@ -156,6 +170,11 @@ publications:
         link: "https://dx.doi.org/10.24824/978652514395.8"
         authors: BORGES, R.; BARCELLOS, T.
         book: "Economia Política Interamericana no século XXI: poder, perspectivas de desenvolvimento e dependência. Curitiba: CRV, 2023."
+
+      - title: Relatório de análise de impacto regulatório do incentivo financeiro 100% Sistema Único de Saúde.
+        link: "#"
+        authors: BORGES, R.
+        book: "Ministério da Saúde, 2022."
 
       - title: Produção, reprodução e política social no Brasil -  para uma visão articulada e concreta.
         link: "#"
