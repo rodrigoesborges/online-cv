@@ -24,42 +24,46 @@ sidebar:
     twitter: '@rodrigoesborges'
 
     idiomas:
-      - idiom: Português
-        level: Nativo
+      title: Idiomas
+      info:
+        - idiom: Português
+          level: Nativo
 
-      - idiom: Castelhano
-        level: Nativo
+        - idiom: Castelhano
+          level: Nativo
 
-      - idiom: Inglês
-        level: Fluente
+        - idiom: Inglês
+          level: Fluente
 
-      - idiom: Francês
-        level: Intermediário
+        - idiom: Francês
+          level: Intermediário
 
-      - idiom: Turco
-        level: Básico
+        - idiom: Turco
+          level: Básico
 
-      - idiom: Mandarim
-        level: Iniciante
+        - idiom: Mandarim
+          level: Iniciante
 
-    interesses:
-      - item: Economia Política e sua Crítica
-        link:
+    interests:
+      title: Linhas de Pesquisa &amp; Interesses
+      info:
+        - item: Economia Política e sua Crítica
+          link:
 
-      - item: Conjuntura Econômica
-        link:
+        - item: Conjuntura Econômica
+          link:
 
-      - item: Economia Internacional
-        link:
+        - item: Economia Internacional
+          link:
 
-      - item: Trabalho e movimentos populares
-        link:
+        - item: Trabalho e movimentos populares
+          link:
 
-      - item: Planejamento e Estado
-        link:
+        - item: Planejamento e Estado
+          link:
 
-      - item: Políticas Públicas e Política Social
-        link:
+        - item: Políticas Públicas e Política Social
+          link:
 
 career-profile:
     title: Carreira
