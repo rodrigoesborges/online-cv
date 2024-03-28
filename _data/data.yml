@@ -23,7 +23,7 @@ sidebar:
     bitbucket: rodrigoesborges
     twitter: '@rodrigoesborges'
 
-    idiomas:
+    idioms:
       - idiom: Português
         level: Nativo
 
@@ -60,7 +60,7 @@ sidebar:
 
       - item: Políticas Públicas e Política Social
         link:
-  
+
 career-profile:
     title: Carreira
     summary: |
@@ -68,7 +68,30 @@ career-profile:
       Pós-doutor em Política Social - PPGPS/UFES - 2021.
       Experiência de pesquisa e docente em Economia Política, Economia Internacional, Teoria Econômica, Macroeconomia, História do Pensamento Econômico.
       Experiência como economista e cientista de dados no Ministério da Saúde e no Instituto de Pesquisa e Estatística do Distrito Federal (IPEDF).
+skills:
+    title: Habilidades &amp; Proficiência
 
+    toolset:
+      - name: Docência
+        level: 80%
+
+      - name: Pesquisa coletiva
+        level: 95%
+
+      - name: R e RStudio
+        level: 90%
+
+      - name: Python, Machine Learning, IA
+        level: 35%
+
+      - name: Microdados amostrais-BRA
+        level: 80%
+
+      - name: Conjuntura Econômica
+        level: 99%
+
+      - name: Publicação científica em revista
+        level: 85%
 education:
     - degree: Pós-doutorado em Política Social
       university: Universidade Federal do Espírito Santo
@@ -155,8 +178,7 @@ publications:
         authors: GARCIA,M.L;BORGES, R. et al
         review: "Social Work in Public Health, v. 39, 1, 2024."
 
-      - title: Distribuição dos estabelecimentos de saúde da atenção especializada à saúde no Brasil vinculados ao SUS - 
-estabelecimentos com leitos de internação
+      - title: Distribuição dos estabelecimentos de saúde da atenção especializada à saúde no Brasil vinculados ao SUS - estabelecimentos com leitos de internação
         link: "https://github.com/rodrigoesborges/habilitacoes-saes/"
         authors: BORGES, R.; MACHADO, K.
         book: "Ministério da Saúde, 2023"
@@ -231,31 +253,6 @@ estabelecimentos com leitos de internação
         authors: BORGES, R.
         conference: "Nuestra América XXI. Desafíos y Alternativas, Ciudad de México, p. 2 - 5, 10 out. 2018"
 
-
-skills:
-    title: Habilidades &amp; Proficiência
-
-    toolset:
-      - name: Docência
-        level: 80%
-
-      - name: Pesquisa coletiva
-        level: 95%
-
-      - name: R e RStudio
-        level: 90%
-
-      - name: Python, Machine Learning, IA
-        level: 35%
-
-      - name: Microdados amostrais-BRA
-        level: 80%
-
-      - name: Conjuntura Econômica
-        level: 99%
-
-      - name: Publicação científica em revista
-        level: 85%
 
 
 footer: >
