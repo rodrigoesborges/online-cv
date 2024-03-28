@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Rodrigo Borges
-    tagline: Doutor em Economia
+    tagline: Doutor em Economia<br>Pós-Doutor em Política Social
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -48,22 +48,16 @@ sidebar:
       title: Linhas de Pesquisa &amp; Interesses
       info:
         - item: Economia Política e sua Crítica
-          link:
 
         - item: Conjuntura Econômica
-          link:
 
         - item: Economia Internacional
-          link:
 
         - item: Trabalho e movimentos populares
-          link:
 
         - item: Planejamento e Estado
-          link:
 
         - item: Políticas Públicas e Política Social
-          link:
 
 career-profile:
     title: Carreira
