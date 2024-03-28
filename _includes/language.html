@@ -8,6 +8,11 @@
 
   <ul class="list-unstyled interests-list">
     {%for language in idiomas %}
+    {{ languages.title }}
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for language in languages.info %}
     <li>
       {{ language.idiom }}
       <span class="lang-desc">({{ language.level }})</span>
