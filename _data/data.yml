@@ -91,51 +91,50 @@ skills:
       - name: Publicação científica em revista
         level: 85%
 education:
-    - degree: Pós-doutorado em Política Social
-      university: Universidade Federal do Espírito Santo
-      time: 2018 - 2021
-      details: |
-        Matriz de Contabilidade Social no Brasil, em busca de uma visão integrada que alcance a primeira infância.
-          - Utilização de dados de contas nacionais e microdados
-          - panorama do fluxo de acumulação e renda
-    - degree: Doutorado em Economia Internacional e Desenvolvimento
-      university: Universidad Complutense de Madrid
-      time: 2007 - 2015
-      details: |
-        Estudo crítico da produção de etanol no Brasil e o investimento estrangeiro, baseado em releitura da ótica de cadeias globais de valor, crítica ao desenvolvimentismo e dados de insumo-produto, concentração de mercado e demais informações detalhadas disponíveis
-          - Pesquisa Quantitativa
-          - Pesquisa qualitativa, com entrevistas de campo
+    title: Educação
+    info:
+      - degree: Pós-doutorado em Política Social
+        university: Universidade Federal do Espírito Santo
+        time: 2018 - 2021
+        details: |
+          Matriz de Contabilidade Social no Brasil, em busca de uma visão integrada que alcance a primeira infância.
+            - Utilização de dados de contas nacionais e microdados
+            - panorama do fluxo de acumulação e renda
+      - degree: Doutorado em Economia Internacional e Desenvolvimento
+        university: Universidad Complutense de Madrid
+        time: 2007 - 2015
+        details: |
+          Estudo crítico da produção de etanol no Brasil e o investimento estrangeiro, baseado em releitura da ótica de cadeias globais de valor, crítica ao desenvolvimentismo e dados de insumo-produto, concentração de mercado e demais informações detalhadas disponíveis
+            - Pesquisa Quantitativa
+            - Pesquisa qualitativa, com entrevistas de campo
 experiences:
-    - role: Economista, Assessor Especial
-      time: 2023-presente
-      company: IPEDF Codeplan
-      details: |
-        Elaboração e apresentação de estudos e pesquisas primárias, como a PED-DF. Corresponsável pela coordenação da Pesquisa Distrital por Amostra de Domicílios Ampliada 2023.
-    - role: Pesquisador Principal em projeto de pesquisa
-      time: 2022-2023
-      company: Instituto de Pesquisa e Estatística do Distrito Federal (IPEDF Codeplan)
-      details: |
-        Pesquisador principal no projeto "Diagnóstico Retrospectivo, Conjuntural e Prospectivo do Mercado de Trabalho no Distrito Federal (DF) e na Periferia Metropolitana de Brasília (PMB)". Elaboração de notas técnicas e artigo científico (microdados via R).
-    - role: Economista e Cientista de Dados
-      time: 2022-2023
-      company: Ministério da Saúde
-      details: |
-        Coordenação-Geral de Monitoramento de Indicadores da Atenção Especializada em Saúde (CGMIND/SAES). Elaborou estudos específicos e dashboards internos, além de análises de impacto econômico
-    - role: Pesquisador pós-doutoral
-      time: 2018 - 2021
-      company: UFES
-      details: |
-        Desenvolvimento de projeto de pesquisa - Bolsa CAPES/FAPES PROFIX - e participação em diversos grupos de estudo e pesquisa.<br>Docência para pós-graduação.
-    - role: Docente
-      time: 2017 - 2018
-      company: Universidade Federal de Goiás (UFG)
-      details: |
-        Professor do Departamento de Economia da UFG, atuei nas seguintes disciplinas.
-          - Macroeconomia
-          - Microeconomia
-          - Introdução à Economia
-          - História do Pensamento Econômico
-          - História Econômica Mundial
+    title: Experiência
+    info:
+      - role: Economista, Assessor Especial
+        time: 2023-presente
+        company: IPEDF Codeplan
+        details: |
+          Elaboração e apresentação de estudos e pesquisas primárias, como a PED-DF. Corresponsável pela coordenação da Pesquisa Distrital por Amostra de Domicílios Ampliada 2023.
+      - role: Pesquisador Principal em projeto de pesquisa
+        time: 2022-2023
+        company: Instituto de Pesquisa e Estatística do Distrito Federal (IPEDF Codeplan)
+        details: |
+          Pesquisador principal no projeto "Diagnóstico Retrospectivo, Conjuntural e Prospectivo do Mercado de Trabalho no Distrito Federal (DF) e na Periferia Metropolitana de Brasília (PMB)". Elaboração de notas técnicas e artigo científico (microdados via R).
+      - role: Economista e Cientista de Dados
+        time: 2022-2023
+        company: Ministério da Saúde
+        details: |
+          Coordenação-Geral de Monitoramento de Indicadores da Atenção Especializada em Saúde (CGMIND/SAES). Elaborou estudos específicos e dashboards internos, além de análises de impacto econômico
+      - role: Pesquisador pós-doutoral
+        time: 2018 - 2021
+        company: UFES
+        details: |
+          Desenvolvimento de projeto de pesquisa - Bolsa CAPES/FAPES PROFIX - e participação em diversos grupos de estudo e pesquisa.<br>Docência para pós-graduação.
+      - role: Docente
+        time: 2017 - 2018
+        company: Universidade Federal de Goiás (UFG)
+        details: |
+          Professor do Departamento de Economia da UFG, atuei nas seguintes disciplinas: - Macroeconomia; - Microeconomia; - Introdução à Economia; - História do Pensamento Econômico; - História Econômica Mundial
 projects:
     title: Projetos
     intro: >
