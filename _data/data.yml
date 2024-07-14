@@ -64,8 +64,8 @@ career-profile:
     summary: |
       Doutor em Economia pela Universidad Complutense de Madrid (Espanha) - 2015.
       Pós-doutor em Política Social - PPGPS/UFES - 2021.
-      Experiência de pesquisa e docente em Economia Política, Economia Internacional, Teoria Econômica, Macroeconomia, História do Pensamento Econômico.
       Experiência como economista e cientista de dados no Ministério da Saúde e no Instituto de Pesquisa e Estatística do Distrito Federal (IPEDF).
+      Experiência de pesquisa e docente em Economia Política, Economia Internacional, Teoria Econômica, Macroeconomia, História do Pensamento Econômico.
 skills:
     title: Habilidades &amp; Proficiência
 
@@ -110,8 +110,13 @@ education:
 experiences:
     title: Experiência
     info:
+      - role: Economista, Cientista de Dados
+        time: 2024-Presente
+        company: Ministério da Integração e Desenvolvimento Regional
+        details: |
+          Elaboração de indicadores e dashboard sobre desenvolvimento regional, ligando ações da União e até o nível municipal.
       - role: Economista, Assessor Especial
-        time: 2023-presente
+        time: 2023-2024
         company: IPEDF Codeplan
         details: |
           Elaboração e apresentação de estudos e pesquisas primárias, como a PED-DF. Corresponsável pela coordenação da Pesquisa Distrital por Amostra de Domicílios Ampliada 2023.
