@@ -64,8 +64,8 @@ career-profile:
     summary: |
       Doutor em Economia pela Universidad Complutense de Madrid (Espanha) - 2015.
       Pós-doutor em Política Social - PPGPS/UFES - 2021.
-      Experiência como economista e cientista de dados no Ministério da Saúde e no Instituto de Pesquisa e Estatística do Distrito Federal (IPEDF).
-      Experiência de pesquisa e docente em Economia Política, Economia Internacional, Teoria Econômica, Macroeconomia, História do Pensamento Econômico.
+      Experiência como economista e cientista de dados no Ministério da Saúde, Ministério da Integração e do Desenvolvimento Regional  e no Instituto de Pesquisa e Estatística do Distrito Federal (IPEDF).
+      Experiência de pesquisa e docente em Economia Brasileira, Economia Internacional, Teoria Econômica, Macroeconomia, Economia Política e História do Pensamento Econômico.
 skills:
     title: Habilidades &amp; Proficiência
 
@@ -79,17 +79,18 @@ skills:
       - name: R e RStudio
         level: 90%
 
-      - name: Python, Machine Learning, IA
-        level: 35%
+      - name: Python
+        level: 40%
 
-      - name: Microdados amostrais-BRA
-        level: 80%
+      - name: IA e Machine Learning
+        level: 30%
 
-      - name: Conjuntura Econômica
-        level: 99%
+      - name: Microdados amostrais e cadastrais
+        level: 90%
 
-      - name: Publicação científica em revista
-        level: 85%
+      - name: Banco de Dados (SQL, PostGIS, etc)
+        level: 75%
+
 education:
     title: Formação
     info:
@@ -99,27 +100,27 @@ education:
         details: |
           Matriz de Contabilidade Social no Brasil, em busca de uma visão integrada que alcance a primeira infância.
             - Utilização de dados de contas nacionais e microdados
-            - panorama do fluxo de acumulação e renda
+            - panorama do fluxo de produção e renda
       - degree: Doutorado em Economia Internacional e Desenvolvimento
         university: Universidad Complutense de Madrid
         time: 2007 - 2015
         details: |
-          Estudo crítico da produção de etanol no Brasil e o investimento estrangeiro, baseado em releitura da ótica de cadeias globais de valor, crítica ao desenvolvimentismo e dados de insumo-produto, concentração de mercado e demais informações detalhadas disponíveis
+          Estudo da produção de etanol no Brasil e o investimento estrangeiro, baseado em releitura crítica da ótica de cadeias globais de valor, com dados de insumo-produto, concentração de mercado e demais informações detalhadas disponíveis
             - Pesquisa Quantitativa
             - Pesquisa qualitativa, com entrevistas de campo
 experiences:
     title: Experiência
     info:
-      - role: Economista, Cientista de Dados
+      - role: Economista (e Cientista de Dados)
         time: 2024-Presente
         company: Ministério da Integração e Desenvolvimento Regional
         details: |
-          Elaboração de indicadores e dashboard sobre desenvolvimento regional, ligando ações da União e até o nível municipal.
+          Elaboração de indicadores e dashboard sobre desenvolvimento regional, ligando ações da União e até o nível municipal. R, shiny, geoserver, PGSQL.
       - role: Economista, Assessor Especial
         time: 2023-2024
         company: IPEDF Codeplan
         details: |
-          Elaboração e apresentação de estudos e pesquisas primárias, como a PED-DF. Corresponsável pela coordenação da Pesquisa Distrital por Amostra de Domicílios Ampliada 2023.
+          Elaboração e apresentação de estudos e pesquisas primárias, como a PED-DF. Corresponsável pela coordenação da Pesquisa Distrital por Amostra de Domicílios Ampliada 2023. R, shiny, PGSQL, python.
       - role: Pesquisador Principal em projeto de pesquisa
         time: 2022-2023
         company: Instituto de Pesquisa e Estatística do Distrito Federal (IPEDF Codeplan)
@@ -129,12 +130,12 @@ experiences:
         time: 2022-2023
         company: Ministério da Saúde
         details: |
-          Coordenação-Geral de Monitoramento de Indicadores da Atenção Especializada em Saúde (CGMIND/SAES). Elaborou estudos específicos e dashboards internos, além de análises de impacto econômico
+          Coordenação-Geral de Monitoramento de Indicadores da Atenção Especializada em Saúde (CGMIND/SAES). Elaborou estudos específicos e dashboards internos, além de análises de impacto econômico. R e shiny.
       - role: Pesquisador pós-doutoral
         time: 2018 - 2021
         company: UFES
         details: |
-          Desenvolvimento de projeto de pesquisa - Bolsa CAPES/FAPES PROFIX - e participação em diversos grupos de estudo e pesquisa.<br>Docência para pós-graduação.
+          Desenvolvimento de projeto de pesquisa - Bolsa CAPES/FAPES PROFIX - e participação em diversos grupos de estudo e pesquisa.<br>Docência para pós-graduação. Análises de SCN e microdados socioeconômicos em R.
       - role: Docente
         time: 2017 - 2018
         company: Universidade Federal de Goiás (UFG)
@@ -143,13 +144,30 @@ experiences:
 projects:
     title: Projetos
     intro: >
-      Recentemente, ao atuar com software R, produzi diversas pesquisas e métodos replicáveis.
+      Recentemente, ao atuar com software R, produzi e desenvolvo diversas pesquisas e métodos replicáveis.
     assignments:
+
+      - title: sidRa ( pacote R,sub. CRAN)
+        link: "https://github.com/rodrigoesborges/sidra"
+        tagline: "Pacote com consolidação de metadados, busca e extração de dados do SIDRA/IBGE pela api em servicodados.ibge.gov.br"
+
+      - title: AEDi - App (shiny) - Análise Exploratória de Dados e indicadores
+        link: "https://github.com/DistintiveLab/AEDi"
+        tagline: "Aplicativo em shiny para consulta, importação e criação de indicadores simples e de média complexidade de diversas fontes - INEP,IBGE,BCB,IPEA,DATASUS,INPE, MTE."
+
+      - title: educabR
+        link: "https://github.com/rodrigoesborges/educabR"
+        tagline: "Pacote de R para  dados tornados disponíveis pelo INEP/MEC"
+
+      - title: datasus (pacote R)
+        link: "https://github.com/rodrigoesborges/datasus"
+        tagline: "ampliação expressiva de pacote alternativo para consulta e extração via TABNET/DATASUS (rvest,httr)"
+
       - title: Programa Nacional de Redução de Filas - monitoramento preliminar
         link: "https://github.com/rodrigoesborges/pnrf_adesoes"
-        tagline: "painel preliminar relativo ao acompanhamento gerencial do PNRF (MS), 2023."
+        tagline: "painel preliminar relativo ao acompanhamento gerencial do PNRF (MS), 2023. (ex. RSelenium)"
 
-      - title: Painel da Rede de Atenção Hospitalar
+      - title: Painel da Rede de Atenção Hospitalar (Mockup)
         link: "https://github.com/cgmind-saes/painel_DAHU"
         tagline: "Mockup funcional de painel com indicadores e informações da rede da SAES (MS), 2022."
 
@@ -157,31 +175,19 @@ projects:
         link: "https://panel.worldlabourvalues.org"
         tagline: "Diversas estimativas setoriais, por países e mundiais a partir de dados de WIOD e EUKLEMS, entre outros"
 
-      - title: Microdados de Política Social do Brasil
-        link: "https://github.com/rodrigoesborges/microdadosbrasilpoliticasocial"
-        tagline: "Painel e conjunto de scripts para compilação de diversos indicadores a partir de microdados públicos disponíveis"
-
-      - title: Benefício Emergencial municipal (prel)
-        link: "#"
-        tagline: "Estudo prospectivo de perfil e necessidades de auxílio cobertas e não cobertas, com vistas a atuação municipal"
-
-      - title: ConjuntuRa
-        link: "#"
-        tagline: "Painel de Conjuntura estimado a partir de dados relevantes públicos disponíveis"
-
 
 publications:
     title: Publicações
     intro: |
       A atuação multifacetada se traduz em publicações sobre temas bastante diversos.
     papers:
-      - title: "Entrepreneurship in the Favela: Negotiating Precarity and Mental Health During Covid-19"
-        link: "https://doi.org/10.1080/19371918.2024.2316874"
-        authors: GARCIA,M.L;BORGES, R. et al
-        review: "Social Work in Public Health, v. 39, 1, 2024."
+      - title: "Relatório Técnico sobre Objetivo II da PNDR (rede policêntrica de cidades)"
+        link: "https://github.com/rodrigoesborges/pndr_relatorios/blob/main/2024-11-Produto-1/2024-11-Produto-1-ObjII-Borges.pdf"
+        authors: BORGES, R.;(coord. GIACOMIN, R)
+        review: "Produto de Consultoria para o MIDR"
 
       - title: Três décadas de mercado de trabalho do Distrito Federal - uma análise da atividade e do rendimento por meio da PED
-        link: "https://ipe.df.gov.br/pesquisa-de-emprego-e-desemprego/"
+        link: "https://www.ipe.df.gov.br/wp-content/uploads/2018/02/Estudo-Tres-decadas-de-mercado-de-trabalho-do-Distrito-Federal-uma-analise-da-atividade-e-do-rendimento-por-meio-da-PED.pdf"
         authors: BORGES, R.; BORSARI, P.
         book: "Ipedf codeplan, 2023"
 
@@ -190,10 +196,15 @@ publications:
         authors: BORGES, R.; MACHADO, K.
         book: "Ministério da Saúde, 2023"
 
-      - title: La intentona fascista del 2023 en Brasil - consideraciones e interrogantes
-        link: "#"
-        authors: BORGES, R.; CARRARO, G.
-        book: "In:BOLAÑO,C. ROFINELLI, G.(orgs). Nuestra América XXI: Desafíos y alternativas.Buenos Aires: CLACSO, 2023."
+      - title: "Entrepreneurship in the Favela: Negotiating Precarity and Mental Health During Covid-19"
+        link: "https://doi.org/10.1080/19371918.2024.2316874"
+        authors: GARCIA,M.L;BORGES, R. et al
+        review: "Social Work in Public Health, v. 39, 1, 2024."
+
+#      - title: La intentona fascista del 2023 en Brasil - consideraciones e interrogantes
+#        link: "#"
+#        authors: BORGES, R.; CARRARO, G.
+#        book: "In:BOLAÑO,C. ROFINELLI, G.(orgs). Nuestra América XXI: Desafíos y alternativas.Buenos Aires: CLACSO, 2023."
 
       - title: Esferas de consumo no Brasil - desvendando limites do desenvolvimentismo.
         link: "https://dx.doi.org/10.24824/978652514395.8"
