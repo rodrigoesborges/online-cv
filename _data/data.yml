@@ -213,7 +213,7 @@ publications:
 
       - title: O Auxílio Emergencial no Brasil duranta a pandemia por Covid-19
         link: "https://periodicos.unb.br/index.php/SER_Social/article/view/33863"
-        authors: PANDOLFI;A.;BRAGA, D;LEAL,F; SILVA, R.;BORGES, R.
+        authors: PANDOLFI;A.;BRAGA, D;SILVA, R.;BORGES, R.
         review: "Revista Ser Social, v. 24, n. 51"
 
       - title: Dependência e Desenvolvimento do Complexo Econômico Industrial da Saúde
@@ -232,7 +232,7 @@ publications:
         book: "Economia Política Interamericana no século XXI: poder, perspectivas de desenvolvimento e dependência. Curitiba: CRV, 2023."
 
       - title: Relatório de análise de impacto regulatório do incentivo financeiro 100% Sistema Único de Saúde.
-        link: "#"
+        link: "https://gitlab.com/rodrigoesborges/analise_custo_air/"
         authors: BORGES, R.
         book: "Ministério da Saúde, 2022."
 
