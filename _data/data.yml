@@ -194,17 +194,12 @@ publications:
       - title: "Relatório Técnico sobre Objetivo II da PNDR (rede policêntrica de cidades)"
         link: "https://github.com/rodrigoesborges/pndr_relatorios/blob/main/2024-11-Produto-1/2024-11-Produto-1-ObjII-Borges.pdf"
         authors: BORGES, R.;(coord. GIACOMIN, R)
-        review: "Produto de Consultoria para o MIDR"
+        review: "MIDR, 2024 (Consultoria MIDR)"
 
       - title: Três décadas de mercado de trabalho do Distrito Federal - uma análise da atividade e do rendimento por meio da PED
         link: "https://www.ipe.df.gov.br/wp-content/uploads/2018/02/Estudo-Tres-decadas-de-mercado-de-trabalho-do-Distrito-Federal-uma-analise-da-atividade-e-do-rendimento-por-meio-da-PED.pdf"
         authors: BORGES, R.; BORSARI, P.
-        book: "Ipedf codeplan, 2023"
-
-      - title: Dependência e Desenvolvimento do Complexo Econômico Industrial da Saúde
-        link: "https://gept.grupo.pro.br/event/2/contributions/94/attachments/85/98/Sa%C3%BAde,%20desenvolvimento%20e%20depend%C3%AAncia%20no%20Complexo%20Econ%C3%B4mico%20Industrial%20da%20Sa%C3%BAde.pdf"
-        authors: MENEZES, A.A.B;BORGES, R.; MENDES,A.N..
-        review: "VI Encontro Internacional GEPT/UnB"
+        book: "IPEDF Codeplan, 2023"
 
       - title: Distribuição dos estabelecimentos de saúde da atenção especializada à saúde no Brasil vinculados ao SUS - estabelecimentos com leitos de internação
         link: "https://github.com/rodrigoesborges/habilitacoes-saes/"
@@ -215,6 +210,16 @@ publications:
         link: "https://doi.org/10.1080/19371918.2024.2316874"
         authors: GARCIA,M.L;BORGES, R. et al
         review: "Social Work in Public Health, v. 39, 1, 2024."
+
+      - title: O Auxílio Emergencial no Brasil duranta a pandemia por Covid-19
+        link: "https://periodicos.unb.br/index.php/SER_Social/article/view/33863"
+        authors: PANDOLFI;A.;BRAGA, D;LEAL,F; SILVA, R.;BORGES, R.
+        review: "Revista Ser Social, v. 24, n. 51"
+
+      - title: Dependência e Desenvolvimento do Complexo Econômico Industrial da Saúde
+        link: "https://gept.grupo.pro.br/event/2/contributions/94/attachments/85/98/Sa%C3%BAde,%20desenvolvimento%20e%20depend%C3%AAncia%20no%20Complexo%20Econ%C3%B4mico%20Industrial%20da%20Sa%C3%BAde.pdf"
+        authors: MENEZES, A.A.B;BORGES, R.; MENDES,A.N..
+        review: "VI Encontro Internacional GEPT/UnB, 2024"
 
 #      - title: La intentona fascista del 2023 en Brasil - consideraciones e interrogantes
 #        link: "#"
