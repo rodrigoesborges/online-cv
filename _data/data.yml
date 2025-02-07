@@ -3,6 +3,7 @@
 #
 
 sidebar:
+    position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
@@ -22,6 +23,9 @@ sidebar:
     gitlab: rodrigoesborges
     bitbucket: rodrigoesborges
     twitter: '@rodrigoesborges'
+    timezone: America/Sao_Paulo # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    bluesky: '@rodri.borges.net.br' # Specify your full Bluesky handle
+    mastodon: https://todon.eu/@rodrigo
 
     idiomas:
       title: Idiomas
@@ -47,7 +51,11 @@ sidebar:
     interests:
       title: Linhas de Pesquisa &amp; Interesses
       info:
-        - item: Economia Política e sua Crítica
+        - item: Planejamento e Estado
+
+        - item: Políticas Públicas e Política Social
+
+        - item: Economia Brasileira Contemporânea
 
         - item: Conjuntura Econômica
 
@@ -55,9 +63,8 @@ sidebar:
 
         - item: Trabalho e movimentos populares
 
-        - item: Planejamento e Estado
+        - item: Economia Política 
 
-        - item: Políticas Públicas e Política Social
 
 career-profile:
     title: Carreira
@@ -66,6 +73,9 @@ career-profile:
       Pós-doutor em Política Social - PPGPS/UFES - 2021.
       Experiência como economista e cientista de dados no Ministério da Saúde, Ministério da Integração e do Desenvolvimento Regional  e no Instituto de Pesquisa e Estatística do Distrito Federal (IPEDF).
       Experiência de pesquisa e docente em Economia Brasileira, Economia Internacional, Teoria Econômica, Macroeconomia, Economia Política e História do Pensamento Econômico.
+
+
+
 skills:
     title: Habilidades &amp; Proficiência
 
@@ -277,6 +287,33 @@ publications:
         conference: "Nuestra América XXI. Desafíos y Alternativas, Ciudad de México, p. 2 - 5, 10 out. 2018"
 
 
+oss:
+    title: Contribuições para Software de Código Aberto (OSS)
+    intro: >
+        Ciência aberta, dados abertos, software livre.
+    contributions:
+      - title: sidRa ( pacote R,sub. CRAN)
+        link: "https://github.com/rodrigoesborges/sidra"
+        tagline: "Pacote com consolidação de metadados, busca e extração de dados do SIDRA/IBGE pela api em servicodados.ibge.gov.br"
+
+  
+recommendations:
+    title: Recommendations
+    list:
+      - person: Kathleen Machado
+        email: kathleen@saude.gov.br
+        phone: +55619991112234
+        role: Servidora Ministério da Saúde
+        recommendation: |
+          Muito competente, trabalha bem em equipe
+      - person: Jusçanio Sousa
+        email: juscanio@ipe.df.gov.br
+        phone: +55619991112234
+        role: Coordenador de Estatística e Pesquisas Socioeconômicas
+        recommendation: |
+          Excelente profissional
 
 footer: >
     Desenhado com <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
+
