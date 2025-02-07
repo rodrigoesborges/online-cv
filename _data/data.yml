@@ -297,21 +297,21 @@ oss:
         tagline: "Pacote com consolidação de metadados, busca e extração de dados do SIDRA/IBGE pela api em servicodados.ibge.gov.br"
 
   
-recommendations:
-    title: Recommendations
-    list:
-      - person: Kathleen Machado
-        email: kathleen@saude.gov.br
-        phone: +55619991112234
-        role: Servidora Ministério da Saúde
-        recommendation: |
-          Muito competente, trabalha bem em equipe
-      - person: Jusçanio Sousa
-        email: juscanio@ipe.df.gov.br
-        phone: +55619991112234
-        role: Coordenador de Estatística e Pesquisas Socioeconômicas
-        recommendation: |
-          Excelente profissional
+#recommendations:
+#    title: Recommendations
+#    list:
+#      - person: Kathleen Machado
+#        email: kathleen@saude.gov.br
+#        phone: +55619991112234
+#        role: Servidora Ministério da Saúde
+#        recommendation: |
+#          Muito competente, trabalha bem em equipe
+#      - person: Jusçanio Sousa
+#        email: juscanio@ipe.df.gov.br
+#        phone: +55619991112234
+#        role: Coordenador de Estatística e Pesquisas Socioeconômicas
+#        recommendation: |
+#          Excelente profissional
 
 footer: >
     Desenhado com <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
