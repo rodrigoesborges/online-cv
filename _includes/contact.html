@@ -3,19 +3,19 @@
 
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
-      <a rel="me"href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
+      <a rel="me" href="mailto:{{ sidebar.email }}">{{ sidebar.email }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.phone %}
     <li class="phone"><i class="fas fa-phone"></i>
-      <a rel="me"href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
+      <a rel="me" href="tel:{{ sidebar.phone }}">{{ sidebar.phone }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.citizenship %}
     <li class="phone"><i class="fas fa-passport"></i>
-      <a rel="me"href="">{{ sidebar.citizenship }}</a>
+      <a rel="me" href="">{{ sidebar.citizenship }}</a>
     </li>
     {% endif %}
 
@@ -27,99 +27,105 @@
 
     {% if sidebar.telegram %}
     <li class="telegram"><i class="fab fa-telegram"></i>
-      <a rel="me"href="https://t.me/{{ sidebar.telegram }}" target="_blank">{{ sidebar.telegram }}</a>
+      <a rel="me" href="https://t.me/{{ sidebar.telegram }}" target="_blank">{{ sidebar.telegram }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.website %}
-    <li class="website"><i class="fas fa-globe-americas"></i>
-      <a rel="me"href="{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
+    <li class="site"><i class="fas fa-globe-americas"></i>
+      <a rel="me" href="{{ sidebar.website }}" target="_blank">{{ sidebar.site }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.blog %}
+    <li class="blog"><i class="fas fa-rss"></i>
+      <a rel="me" href="{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.linkedin %}
     <li class="linkedin"><i class="fab fa-linkedin"></i>
-      <a rel="me"href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
+      <a rel="me" href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.xing %}
     <li class="xing"><i class="fab fa-xing"></i>
-      <a rel="me"href="https://www.xing.com/profile/{{ sidebar.xing }}" target="_blank">{{ sidebar.xing }}</a>
+      <a rel="me" href="https://www.xing.com/profile/{{ sidebar.xing }}" target="_blank">{{ sidebar.xing }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
-      <a rel="me"href="https://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
+      <a rel="me" href="https://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.gitlab %}
     <li class="gitlab"><i class="fab fa-gitlab"></i>
-      <a rel="me"href="https://gitlab.com/{{ sidebar.gitlab }}" target="_blank">{{ sidebar.gitlab }}</a>
+      <a rel="me" href="https://gitlab.com/{{ sidebar.gitlab }}" target="_blank">{{ sidebar.gitlab }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.bitbucket %}
     <li class="bitbucket"><i class="fab fa-bitbucket"></i>
-      <a rel="me"href="https://bitbucket.com/{{ sidebar.bitbucket }}" target="_blank">{{ sidebar.bitbucket }}</a>
+      <a rel="me" href="https://bitbucket.com/{{ sidebar.bitbucket }}" target="_blank">{{ sidebar.bitbucket }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.twitter %}
     <li class="twitter"><i class="fab fa-twitter"></i>
-      <a rel="me"href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
+      <a rel="me" href="https://twitter.com/{{ sidebar.twitter }}" target="_blank">{{ sidebar.twitter }}</a>
     </li>
     {% endif %}
     
     {% if sidebar.bluesky %}
     {% assign bluesky_handle = sidebar.bluesky | remove: '@' %}
     <li class="bluesky"><i class="fab fa-bluesky"></i>
-      <a rel="me"href="https://bsky.app/profile/{{ bluesky_handle }}" target="_blank">{{ sidebar.bluesky }}</a>
+      <a rel="me" href="https://bsky.app/profile/{{ bluesky_handle }}" target="_blank">{{ sidebar.bluesky }}</a>
     </li>
     {% endif %}
     
     {% if sidebar.mastodon %}
     {% assign mastodon_handle = sidebar.mastodon | split: '/' %}
     <li class="mastodon"><i class="fab fa-mastodon"></i>
-      <a rel="me"href="{{ sidebar.mastodon }}" target="_blank">{{ mastodon_handle[3] }}@{{ mastodon_handle[2] }}</a>
+      <a rel="me" href="{{ sidebar.mastodon }}" target="_blank">{{ mastodon_handle[3] }}@{{ mastodon_handle[2] }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.stack-overflow %}
     <li class="stack-overflow"><i class="fab fa-stack-overflow"></i>
-      <a rel="me"href="https://stackoverflow.com/users/{{ sidebar.stack-overflow }}" target="_blank">{{ sidebar.stack-overflow }}</a>
+      <a rel="me" href="https://stackoverflow.com/users/{{ sidebar.stack-overflow }}" target="_blank">{{ sidebar.stack-overflow }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.codewars %}
     <li class="codewars"><i class="fas fa-code"></i>
-      <a rel="me"href="https://www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars }}</a>
+      <a rel="me" href="https://www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.hackerrank %}
     <li class="hackerrank"><i class="fab fa-hackerrank"></i>
-      <a rel="me"href="https://www.hackerrank.com/profile/{{ sidebar.hackerrank }}" target="_blank">{{ sidebar.hackerrank }}</a>
+      <a rel="me" href="https://www.hackerrank.com/profile/{{ sidebar.hackerrank }}" target="_blank">{{ sidebar.hackerrank }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.leetcode %}
     <li class="leetcode"><i class="fas fa-code"></i>
-      <a rel="me"href="https://leetcode.com/u/{{ sidebar.leetcode }}" target="_blank">{{ sidebar.leetcode }}</a>
+      <a rel="me" href="https://leetcode.com/u/{{ sidebar.leetcode }}" target="_blank">{{ sidebar.leetcode }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.goodreads %}
     <li class="goodreads-g"><i class="fab fa-goodreads-g"></i>
-      <a rel="me"href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
+      <a rel="me" href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
     </li>
     {% endif %}
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a rel="me"href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
+      <a rel="me" href="{{ sidebar.pdf }}" target="_blank">Resume PDF</a>
     </li>
     {% endif %}
 
