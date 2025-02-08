@@ -1,7 +1,7 @@
 {% assign sidebar = site.data.data.sidebar %}
 <div class="sidebar-wrapper">
 
-  <div class="profile-container">
+  <div class="profile-container h-card" >
 
     {% if sidebar.avatar %}
     <img class="avatar u-photo" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
@@ -12,7 +12,7 @@
     {% endif %}
 
     {% if sidebar.tagline %}
-    <h3 class="tagline p-note">{{ sidebar.tagline }}</h3>
+    <h3 class="tagline"><p class="p-note">{{ sidebar.tagline }}</p></h3>
     {% endif %}
 
   </div><!--//profile-container-->
