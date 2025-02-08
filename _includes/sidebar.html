@@ -2,13 +2,14 @@
 <div class="sidebar-wrapper">
 
   <div class="profile-container h-card" >
+    <a class="u-url u-uid" src="{{ site.baseurl }}" />
 
     {% if sidebar.avatar %}
     <img class="avatar u-photo" src="{{ site.baseurl }}/assets/images/{{ sidebar.avatar }}" alt="profile picture" />
     {% endif %}
 
     {% if sidebar.name %}
-    <h1 class="name">{{ sidebar.name }}</h1>
+    <h1 class="name p-name">{{ sidebar.name }}</h1>
     {% endif %}
 
     {% if sidebar.tagline %}
