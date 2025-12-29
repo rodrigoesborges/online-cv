@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: rodrigo@borges.net.br
-    phone: +55 61 8213-9405
+    phone: +55 61 98213-9405
     pdf: 'https://l.borges.net.br/CVlattes'
     blog: 'foradacurva.distintive.com.br/'
     linkedin: rodrigoesborges
@@ -72,8 +72,9 @@ career-profile:
     summary: |
       Doutor em Economia pela Universidad Complutense de Madrid (Espanha) - 2015.
       Pós-doutor em Política Social - PPGPS/UFES - 2021.
-      Experiência como economista e cientista de dados no Ministério da Saúde, Ministério da Integração e do Desenvolvimento Regional  e no Instituto de Pesquisa e Estatística do Distrito Federal (IPEDF).
-      Experiência de pesquisa e docente em Economia Brasileira, Economia Internacional, Teoria Econômica, Macroeconomia, Economia Política e História do Pensamento Econômico.
+      Experiência como economista e cientista de dados nos Ministérios da Saúde, Integração e Desenvolvimento Regional,
+      e nos Institutos de Pesquisa Econômica Aplicada (IPEA) e do Distrito Federal (IPEDF).
+      Experiência de pesquisa e docente em Economia da Saúde, Brasileira, Internacional, Ciência de Dados, Macroeconomia, Economia Política e História do Pensamento Econômico.
 
 
 
@@ -82,25 +83,25 @@ skills:
 
     toolset:
       - name: Docência
-        level: 80%
+        level: 85%
 
       - name: Pesquisa coletiva
-        level: 95%
+        level: 99%
 
       - name: R e RStudio
-        level: 90%
+        level: 95%
 
       - name: Python
-        level: 40%
+        level: 55%
 
       - name: IA e Machine Learning
-        level: 30%
+        level: 40%
 
       - name: Microdados amostrais e cadastrais
         level: 90%
 
       - name: Banco de Dados (SQL, PostGIS, etc)
-        level: 75%
+        level: 80%
 
 education:
     title: Formação
@@ -123,7 +124,12 @@ experiences:
     title: Experiência
     info:
       - role: Economista (/Cientista de Dados)
-        time: 2024-Presente
+        time: 2025-Presente
+        company: IPEA / IPEA Data Lab
+        details: |
+           Bolsista nível Doutorado, trabalho em projetos como BMAP.  R, duckdb,targets, langchain, python.
+      - role: Economista (/Cientista de Dados)
+        time: 2024-2025
         company: Ministério da Integração e Desenvolvimento Regional
         details: |
           Elaboração de indicadores e dashboard sobre desenvolvimento regional, ligando ações da União e até o nível municipal. R, shiny, geoserver, PGSQL.
@@ -142,11 +148,11 @@ experiences:
         company: Ministério da Saúde
         details: |
           Coordenação-Geral de Monitoramento de Indicadores da Atenção Especializada em Saúde (CGMIND/SAES). Elaborou estudos específicos e dashboards internos, além de análises de impacto econômico. R e shiny.
-      - role: Pesquisador pós-doutoral
+      - role: Pesquisador pós-doutoral - Política Social
         time: 2018 - 2021
         company: UFES
         details: |
-          Desenvolvimento de projeto de pesquisa - Bolsa CAPES/FAPES PROFIX - e participação em diversos grupos de estudo e pesquisa.<br>Docência para pós-graduação. Análises de SCN e microdados socioeconômicos em R.
+          Bolsa CAPES/FAPES PROFIX. Docência para pós-graduação. Análises de SCN e microdados socioeconômicos em R.
       - role: Docente
         time: 2017 - 2018
         company: Universidade Federal de Goiás (UFG)
@@ -158,9 +164,17 @@ projects:
       Recentemente, ao atuar com software R, produzi e desenvolvo diversas pesquisas e métodos replicáveis.
     assignments:
 
-      - title: sidRa ( pacote R,sub. CRAN)
+      - title: nomesbr (IPEADATA Lab , pacote de R no CRAN))
+        link: "https://ipeadata-lab.github.io/nomesbr/"
+        tagline: "Limpa e simplifica nomes de pessoas para auxiliar no pareamento de banco de dados. https://doi.org/10.32614/CRAN.package.nomesbr"
+
+      - title: metaphonebr (IPEADATA Lab,pacote de R no CRAN))
         link: "https://github.com/rodrigoesborges/sidra"
-        tagline: "Pacote com consolidação de metadados, busca e extração de dados do SIDRA/IBGE pela api em servicodados.ibge.gov.br"
+        tagline: "Simplificação fonética metaphone personalizada para nomes brasileiros. https://doi.org/10.32614/CRAN.package.metaphonebr"
+
+      - title: sidRa (R CRAN))
+        link: "https://github.com/rodrigoesborges/sidra"
+        tagline: "Pacote com consolidação de metadados, busca e extração de dados do SIDRA/IBGE pela api em servicodados.ibge.gov.br . https://doi.org/10.32614/CRAN.package.sidra"
 
       - title: AEDi - App (shiny) - Análise Exploratória de Dados e indicadores
         link: "https://github.com/DistintiveLab/AEDi"
