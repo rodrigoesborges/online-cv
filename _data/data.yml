@@ -169,7 +169,7 @@ projects:
         tagline: "Limpa e simplifica nomes de pessoas para auxiliar no pareamento de banco de dados. https://doi.org/10.32614/CRAN.package.nomesbr"
 
       - title: metaphonebr (IPEADATA Lab,pacote de R no CRAN))
-        link: "https://github.com/rodrigoesborges/sidra"
+        link: "https://ipeadata-lab.github.io/metaphonebr/"
         tagline: "Simplificação fonética metaphone personalizada para nomes brasileiros. https://doi.org/10.32614/CRAN.package.metaphonebr"
 
       - title: sidRa (R CRAN))
@@ -236,10 +236,10 @@ publications:
         authors: MENEZES, A.A.B;BORGES, R.; MENDES,A.N..
         review: "VI Encontro Internacional GEPT/UnB, 2024"
 
-#      - title: La intentona fascista del 2023 en Brasil - consideraciones e interrogantes
-#        link: "#"
-#        authors: BORGES, R.; CARRARO, G.
-#        book: "In:BOLAÑO,C. ROFINELLI, G.(orgs). Nuestra América XXI: Desafíos y alternativas.Buenos Aires: CLACSO, 2023."
+      - title: La intentona fascista del 2023 en Brasil - consideraciones e interrogantes
+        link: "#"
+        authors: BORGES, R.; CARRARO, G.
+        book: "In:BOLAÑO,C. ROFINELLI, G.(orgs). Nuestra América XXI: Desafíos y alternativas.Buenos Aires: CLACSO, 2023."
 
       - title: Esferas de consumo no Brasil - desvendando limites do desenvolvimentismo.
         link: "https://dx.doi.org/10.24824/978652514395.8"
@@ -317,23 +317,23 @@ oss:
         tagline: "Pacote com consolidação de metadados, busca e extração de dados do SIDRA/IBGE pela api em servicodados.ibge.gov.br"
 
   
-#recommendations:
-#    title: Recommendations
-#    list:
-#      - person: Kathleen Machado
-#        email: kathleen@saude.gov.br
-#        phone: +55619991112234
-#        role: Servidora Ministério da Saúde
+recommendations:
+    title: Recommendations
+    list:
+      - person: Kathleen Machado
+        email: kathleen@saude.gov.br
+        phone: +55619991112234
+        role: Ministério da Saúde - Coordenadora Geral
 #        recommendation: |
 #          Muito competente, trabalha bem em equipe
-#      - person: Jusçanio Sousa
-#        email: juscanio@ipe.df.gov.br
-#        phone: +55619991112234
-#        role: Coordenador de Estatística e Pesquisas Socioeconômicas
-#        recommendation: |
-#          Excelente profissional
+      - person: Jusçanio Sousa
+        email: juscanio@ipe.df.gov.br
+        phone: +55619991112234
+        role: Coordenador de Estatística e Pesquisas Socioeconômicas
+        recommendation: |
+          Excelente profissional
 
 footer: >
-    Desenhado com <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Desenhado com <i class="fas fa-heart"></i> by <a href="https://distintive.com.br" target="_blank" rel="nofollow">Rodrigo Borges (a. d. Xiaoying Riley)</a>
 
 
