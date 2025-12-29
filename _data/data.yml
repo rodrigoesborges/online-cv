@@ -206,25 +206,35 @@ publications:
     intro: |
       A atuação multifacetada se traduz em publicações sobre temas bastante diversos.
     papers:
-      - title: "Relatório Técnico sobre Objetivo II da PNDR (rede policêntrica de cidades)"
-        link: "https://github.com/rodrigoesborges/pndr_relatorios/blob/main/2024-11-Produto-1/2024-11-Produto-1-ObjII-Borges.pdf"
-        authors: BORGES, R.;(coord. GIACOMIN, R)
-        review: "MIDR, 2024 (Consultoria MIDR)"
+      - title: "Estado, dependência e saúde coletiva: ensaios críticos"
+        link: "https://fi-admin.bvsalud.org/document/view/6x6qh"
+        authors: DUARTE, L.; CORREIA, D.; BARRETO, A.;BORGES, R.;CAMPOS, C. (orgs)
+        review: "Instituto de Saúde, São Paulo, 2025. Livro. ISBN 978-85-88169-44-9"
 
-      - title: Três décadas de mercado de trabalho do Distrito Federal - uma análise da atividade e do rendimento por meio da PED
-        link: "https://www.ipe.df.gov.br/wp-content/uploads/2018/02/Estudo-Tres-decadas-de-mercado-de-trabalho-do-Distrito-Federal-uma-analise-da-atividade-e-do-rendimento-por-meio-da-PED.pdf"
-        authors: BORGES, R.; BORSARI, P.
-        book: "IPEDF Codeplan, 2023"
+      - title: "Relatório Técnico de apoio ao monitoramento da Política Nacional de Desenvolvimento Regional"
+        link: "https://github.com/rodrigoesborges/pndr_relatorios"
+        authors: BORGES, R.;(coord. GIACOMIN, R)
+        review: "MIDR, 2025 (Consultoria MIDR)"
+
+      - title: "Inteligência Artificial, Trabalho &amp; capitalismo"
+        link: "https://ponteseditores.com.br/loja3/pontes-editores-home-2__trashed/linguistica/inteligencia-artificial-trabalho-capitalismo/"
+        authors: DAL ROSSO, SADI; GONTIJO, L.; RESES, E.;BORGES, R. et al (orgs.)
+        review: "São Paulo: Pontes Editores, 2025. ISBN 978-85-21708-10-0"
+
+      - title: "Entrepreneurship in the Favela: Negotiating Precarity and Mental Health During Covid-19"
+        link: "https://doi.org/10.1080/19371918.2024.2316874"
+        authors: GARCIA,M.L;BORGES, R. et al
+        review: "Social Work in Public Health, v. 39, 1, 2024."
 
       - title: Distribuição dos estabelecimentos de saúde da atenção especializada à saúde no Brasil vinculados ao SUS - estabelecimentos com leitos de internação
         link: "https://github.com/rodrigoesborges/habilitacoes-saes/"
         authors: BORGES, R.; MACHADO, K.
         book: "Ministério da Saúde, 2023"
 
-      - title: "Entrepreneurship in the Favela: Negotiating Precarity and Mental Health During Covid-19"
-        link: "https://doi.org/10.1080/19371918.2024.2316874"
-        authors: GARCIA,M.L;BORGES, R. et al
-        review: "Social Work in Public Health, v. 39, 1, 2024."
+      - title: Três décadas de mercado de trabalho do Distrito Federal - uma análise da atividade e do rendimento por meio da PED
+        link: "https://www.ipe.df.gov.br/wp-content/uploads/2018/02/Estudo-Tres-decadas-de-mercado-de-trabalho-do-Distrito-Federal-uma-analise-da-atividade-e-do-rendimento-por-meio-da-PED.pdf"
+        authors: BORGES, R.; BORSARI, P.
+        book: "IPEDF Codeplan, 2023"
 
       - title: O Auxílio Emergencial no Brasil duranta a pandemia por Covid-19
         link: "https://periodicos.unb.br/index.php/SER_Social/article/view/33863"
