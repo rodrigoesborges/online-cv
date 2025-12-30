@@ -138,12 +138,13 @@ experiences:
         company: IPEDF Codeplan
         details: |
           Elaboração e apresentação de estudos e pesquisas primárias, como a PED-DF. Corresponsável pela coordenação da Pesquisa Distrital por Amostra de Domicílios Ampliada 2023. R, shiny, PGSQL, python.
-      - role: Pesquisador Principal em projeto de pesquisa
+      - role: Pesquisador/Coordendador de pesquisa
         time: 2022-2023
         company: Instituto de Pesquisa e Estatística do Distrito Federal (IPEDF Codeplan)
         details: |
           Pesquisador principal no projeto "Diagnóstico Retrospectivo, Conjuntural e Prospectivo do Mercado de Trabalho no Distrito Federal (DF) e na Periferia Metropolitana de Brasília (PMB)". Elaboração de notas técnicas e artigo científico (microdados via R).
-      - role: Economista (/Cientista de Dados)
+      - role: |
+          Economista (/Cientista de Dados)
         time: 2022-2023
         company: Ministério da Saúde
         details: |
