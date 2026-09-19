@@ -346,8 +346,8 @@ recommendations:
         email: kathleen@saude.gov.br
         phone: +55619991112234
         role: Ministério da Saúde - Coordenadora Geral
-#        recommendation: |
-#          Muito competente, trabalha bem em equipe
+        recommendation: |
+          Muito competente, trabalha bem em equipe
       - person: Jusçanio Sousa
         email: juscanio@ipe.df.gov.br
         phone: +55619991112234
