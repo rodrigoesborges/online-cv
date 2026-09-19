@@ -339,21 +339,21 @@ oss:
         tagline: "Pacote com consolidação de metadados, busca e extração de dados do SIDRA/IBGE pela api em servicodados.ibge.gov.br"
 
 
-#recommendations:
-#    title: Recomendações
-#    list:
-#      - person: Kathleen Machado
-#        email: kathleen@saude.gov.br
-#        phone: +55619991112234
-#        role: Ministério da Saúde - Coordenadora Geral
-#        recommendation: |
-#          Muito competente, trabalha bem em equipe
-#      - person: Jusçanio Sousa
-#        email: juscanio@ipe.df.gov.br
-#        phone: +55619991112234
-#        role: Coordenador de Estatística e Pesquisas Socioeconômicas
-#        recommendation: |
-#          Excelente profissional
+recommendations:
+    title: Recomendações
+    list:
+      - person: Danilo Campos da Luz e Silva
+        email: danilo.campos@saude.gov.br
+        phone: +55619991112234
+        role: Ministério da Saúde - Secretaria Executiva
+        recommendation: |
+          Muito competente, trabalha bem em equipe
+      - person: Jusçanio Sousa
+        email: juscanio@ipe.df.gov.br
+        phone: +55619991112234
+        role: Coordenador de Estatística e Pesquisas Socioeconômicas
+        recommendation: |
+          Excelente profissional
 
 footer: >
     Desenhado com <i class="fas fa-heart"></i> por <a href="https://distintive.com.br" target="_blank" rel="nofollow">Rodrigo Borges (a. d. Xiaoying Riley)</a>
